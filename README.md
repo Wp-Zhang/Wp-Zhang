@@ -10,7 +10,7 @@
 - 🌱 I’m currently a Data Science Master student at Northeastern University, Boston, MA
 - 🔭 I'm a machine learning and data mining enthusiast, hoping to apply my knowledge in the real world and make an influence
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wp-Zhang&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wp-Zhang&repo=DS-5220-Final-Project)](https://github.com/Wp-Zhang/DS-5220-Final-Project)
 
 <!--
 Here are some ideas to get you started:
