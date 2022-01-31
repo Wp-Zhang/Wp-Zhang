@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my Github profile~
 
 ![Weipeng Zhang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wp-Zhang&show_icons=true&theme=default&hide=stars)
 
