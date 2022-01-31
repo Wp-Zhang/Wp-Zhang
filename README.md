@@ -1,8 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Wp-Zhang/Wp-Zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Weipeng Zhang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wp-Zhang&show_icons=true&theme=radical)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wp-Zhang&hide=typescript,css,html,c&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wp-Zhang&layout=Compact)](https://github.com/anuraghazra/github-readme-stats)-->
+
+- 🌱 I’m currently a Data Science Master student at Northeastern University, Boston, MA
+- 🔭 I'm a machine learning and data mining enthusiast, hoping to apply my knowledge in the real world and make an influence
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
