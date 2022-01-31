@@ -3,7 +3,7 @@
 ![Weipeng Zhang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wp-Zhang&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wp-Zhang&hide=typescript,css,html,c&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wp-Zhang&hide=typescript,css,html,c,ruby&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wp-Zhang&layout=Compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
