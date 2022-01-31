@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Weipeng Zhang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wp-Zhang&show_icons=true&theme=radical)
+![Weipeng Zhang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wp-Zhang&show_icons=true&theme=cobalt2)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wp-Zhang&hide=typescript,css,html,c,ruby&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently a Data Science Master student at Northeastern University, Boston, MA
 - 🔭 I'm a machine learning and data mining enthusiast, hoping to apply my knowledge in the real world and make an influence
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wp-Zhang&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 Here are some ideas to get you started:
