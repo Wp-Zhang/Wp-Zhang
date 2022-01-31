@@ -12,9 +12,9 @@
 
 **Here are some of my projects, check them out **😉
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wp-Zhang&repo=DS-5220-Final-Project)](https://github.com/Wp-Zhang/DS-5220-Final-Project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wp-Zhang&repo=DS-5110-Final-Project)](https://github.com/Wp-Zhang/DS-5110-Final-Project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wp-Zhang&repo=DS-5110-Mini-Poster)](https://github.com/Wp-Zhang/DS-5110-Mini-Poster)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wp-Zhang&repo=DS-5220-Final-Project&theme=swift)](https://github.com/Wp-Zhang/DS-5220-Final-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wp-Zhang&repo=DS-5110-Final-Project&theme=swift)](https://github.com/Wp-Zhang/DS-5110-Final-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wp-Zhang&repo=DS-5110-Mini-Poster&theme=swift)](https://github.com/Wp-Zhang/DS-5110-Mini-Poster)
 
 
 <!--
