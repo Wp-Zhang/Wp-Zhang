@@ -13,6 +13,7 @@
 #### Here are some of my projects, check them out 😉
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wp-Zhang&repo=HandyRec&theme=graywhite)](https://github.com/Wp-Zhang/HandyRec)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wp-Zhang&repo=H-M-Fashion-RecSys&theme=graywhite)](https://github.com/Wp-Zhang/H-M-Fashion-RecSys)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wp-Zhang&repo=DS-5220-Final-Project&theme=graywhite)](https://github.com/Wp-Zhang/DS-5220-Final-Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wp-Zhang&repo=DS-5110-Final-Project&theme=graywhite)](https://github.com/Wp-Zhang/DS-5110-Final-Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wp-Zhang&repo=DS-5110-Mini-Poster&theme=graywhite)](https://github.com/Wp-Zhang/DS-5110-Mini-Poster)
