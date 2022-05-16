@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my Github profile~
 
-![Weipeng Zhang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wp-Zhang&show_icons=true&theme=default&hide=stars)
+![Weipeng Zhang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wp-Zhang&title_color=1d87da&icon_color=539bf5&text_color=539bf5&bg_color=0000&show_icons=true)
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wp-Zhang&hide=typescript,css,html,c,ruby&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
@@ -12,11 +12,11 @@
 
 #### Here are some of my projects, check them out 😉
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wp-Zhang&repo=HandyRec&theme=graywhite)](https://github.com/Wp-Zhang/HandyRec)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wp-Zhang&repo=H-M-Fashion-RecSys&theme=graywhite)](https://github.com/Wp-Zhang/H-M-Fashion-RecSys)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wp-Zhang&repo=DS-5220-Final-Project&theme=graywhite)](https://github.com/Wp-Zhang/DS-5220-Final-Project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wp-Zhang&repo=DS-5110-Final-Project&theme=graywhite)](https://github.com/Wp-Zhang/DS-5110-Final-Project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wp-Zhang&repo=DS-5110-Mini-Poster&theme=graywhite)](https://github.com/Wp-Zhang/DS-5110-Mini-Poster)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wp-Zhang&repo=HandyRec&title_color=1d87da&icon_color=539bf5&text_color=539bf5&bg_color=0000)](https://github.com/Wp-Zhang/HandyRec)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wp-Zhang&repo=H-M-Fashion-RecSys&title_color=1d87da&icon_color=539bf5&text_color=539bf5&bg_color=0000)](https://github.com/Wp-Zhang/H-M-Fashion-RecSys)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wp-Zhang&repo=DS-5220-Final-Project&title_color=1d87da&icon_color=539bf5&text_color=539bf5&bg_color=0000)](https://github.com/Wp-Zhang/DS-5220-Final-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wp-Zhang&repo=DS-5110-Final-Project&title_color=1d87da&icon_color=539bf5&text_color=539bf5&bg_color=0000)](https://github.com/Wp-Zhang/DS-5110-Final-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wp-Zhang&repo=DS-5110-Mini-Poster&title_color=1d87da&icon_color=539bf5&text_color=539bf5&bg_color=0000)](https://github.com/Wp-Zhang/DS-5110-Mini-Poster)
 
 
 <!--
