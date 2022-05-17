@@ -20,10 +20,10 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wp-Zhang&repo=DS-5110-Mini-Poster&title_color=1d87da&icon_color=539bf5&text_color=539bf5&bg_color=0000)](https://github.com/Wp-Zhang/DS-5110-Mini-Poster) -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wp-Zhang&repo=HandyRec&bg_color=00000000&text_color=58a6ff&hide_border=true&disable_animations=true)](https://github.com/Wp-Zhang/HandyRec)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wp-Zhang&repo=H-M-Fashion-RecSys&bg_color=00000000&text_color=58a6ff&hide_border=true&disable_animations=true)](https://github.com/Wp-Zhang/H-M-Fashion-RecSys)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wp-Zhang&repo=DS-5220-Final-Project&bg_color=00000000&text_color=58a6ff&hide_border=true&disable_animations=true)](https://github.com/Wp-Zhang/DS-5220-Final-Project)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wp-Zhang&repo=DS-5220-Final-Project&bg_color=00000000&text_color=58a6ff&hide_border=true&disable_animations=true)](https://github.com/Wp-Zhang/DS-5220-Final-Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wp-Zhang&repo=DS-5110-Final-Project&bg_color=00000000&text_color=58a6ff&hide_border=true&disable_animations=true)](https://github.com/Wp-Zhang/DS-5110-Final-Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wp-Zhang&repo=DS-5110-Mini-Poster&bg_color=00000000&text_color=58a6ff&hide_border=true&disable_animations=true)](https://github.com/Wp-Zhang/DS-5110-Mini-Poster)
-
+ -->
 
 <!--
 Here are some ideas to get you started:
