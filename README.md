@@ -8,7 +8,8 @@
 
 <!-- [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wp-Zhang&layout=Compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-- 📚 I’m currently a Data Science Master student at Northeastern University, Boston, MA
+- 👨‍💻 I'm currently a Data Science Intern at Amazon Rbotics
+- 📚 I’m a Data Science Master student at Northeastern University, Boston, MA
 - ⚡ I'm a machine learning and data mining enthusiast, hoping to apply my knowledge in the real world and make an influence
 
 #### Here are some of my projects, check them out 😉
