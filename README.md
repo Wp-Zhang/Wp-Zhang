@@ -10,7 +10,7 @@
 
 - 📚 I’m a Data Science Master student at Northeastern University, Boston, MA
 - 👨‍💻 I interned as a Data Scientist at Amazon Robotics from 01/2023 to 06/2023
-- ⚡ I'm a machine learning and data mining enthusiast, hoping to apply my knowledge in the real world and make an influence
+- ⚡ I'm a machine learning and data mining enthusiast
 
 #### Here are some of my projects, check them out 😉
 
