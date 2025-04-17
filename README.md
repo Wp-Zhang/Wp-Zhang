@@ -8,9 +8,9 @@
 
 <!-- [![wakatime stats](https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=Wp-Zhang&layout=Compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-- 📚 I’m a Data Science Master student at Northeastern University, Boston, MA
-- 👨‍💻 I interned as a Data Scientist at Amazon Robotics from 01/2023 to 06/2023
-- ⚡ I'm a machine learning and data mining enthusiast
+- 💼 I'm currently an AI Research Engineer at Noah's Ark Lab, Huawei. Focusing on Recommendation System & LLM.
+- 📚 I graduated from Northeastern University, Boston, MA in 12/2023 with an MS in Data Science.
+- 👨‍💻 I was a Data Scientist intern at Amazon Robotics from 01/2023 to 06/2023.
 
 #### Here are some of my projects, check them out 😉
 
