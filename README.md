@@ -8,8 +8,6 @@
 
 <!-- [![wakatime stats](https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=Wp-Zhang&layout=Compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-- 💼 I'm currently a Senior Research Engineer at Huawei.
-
 <!-- 
 #### Here are some of my projects, check them out 😉
 
